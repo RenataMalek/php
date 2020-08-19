@@ -1,6 +1,6 @@
 <?php
 
 echo "<strong>Olá mundo!";
-echo "Testando coisas";
+echo "Testando";
 
 ?>
